@@ -1,7 +1,7 @@
 import cors from "cors";
 import express, { json, Express } from "express";
 import { connectDb, disconnectDb } from "./config/database";
-import router from "./router";
+import router from "./router/index.router";
 
 const app = express()
 
