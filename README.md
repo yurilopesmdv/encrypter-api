@@ -11,3 +11,5 @@ Sabe quando a gente esquece a senha que colocou naquele site e não utiliza mais
 Pois é, foi pensando nisso que nasceu a ideia do encrypter
 
 Uma aplicação segura que permita o usuário salvar o login e senha de sites e aplicativos, sem ter perigo de vazamento de informações e que permita em poucos cliques relembrar as credenciais e resolver o grande problema de esquecimento de senhas que afeta praticamente todos os usuários.
+
+Optei por utilizar Node.js com Typescript pois posso utilizar as vantagens do Node de Assincronicidade além de simplificar o processo com Js/Ts no lado do servidor, criando um ambiente de desenvolvimento consistente.
