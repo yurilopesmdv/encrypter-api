@@ -2,12 +2,14 @@
 
 ## Sumário
 
-- [Resumo](#resumo)
-- [Contexto](#contexto)
-- [Docker](#docker)
-- [Configuração Inicial](#configuração-inicial)
-- [Instalação](#instalação)
-- [Contato](#contato)
+- [Encrypter-Api](#encrypter-api)
+  - [Sumário](#sumário)
+  - [Resumo](#resumo)
+  - [Contexto](#contexto)
+  - [Docker](#docker)
+  - [Configuração Inicial](#configuração-inicial)
+  - [Instalação](#instalação)
+  - [Contato](#contato)
 
 ## Resumo
 
@@ -39,3 +41,5 @@ docker run yurilopesm/encrypter-api
 
 
 Para entrar em contato comigo ou para saber mais sobre o projeto, você pode me encontrar no <a href="https://www.linkedin.com/in/yurilopesm" target="_blank">LinkedIn</a>.
+
+Ou enviar um e-mail para yurilopesm@hotmail.com.
