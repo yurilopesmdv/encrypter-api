@@ -31,11 +31,11 @@ docker run yurilopesm/encrypter-api
 
 ## Configuração Inicial
 
-(Nesta seção, você pode fornecer informações sobre a configuração inicial necessária para executar sua aplicação.)
+(...)
 
 ## Instalação
 
-(Nesta seção, você pode explicar como instalar e configurar sua aplicação.)
+(...)
 
 ## Contato
 
