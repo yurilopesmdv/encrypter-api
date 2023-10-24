@@ -37,4 +37,4 @@ docker run yurilopesm/encrypter-api
 
 ## Contato
 
-(Forneça informações de contato ou links relevantes para os usuários que desejam entrar em contato ou contribuir para o projeto.)
+Para entrar em contato comigo ou para saber mais sobre o projeto, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/yurilopesm).
