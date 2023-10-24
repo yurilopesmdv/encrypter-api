@@ -15,5 +15,5 @@ Uma aplicação segura que permita o usuário salvar o login e senha de sites e 
 Optei por utilizar Node.js com Typescript pois posso utilizar as vantagens do Node de Assincronicidade além de simplificar o processo com Js/Ts no lado do servidor, criando um ambiente de desenvolvimento consistente, e o Typescript me ajudou muito na segurança e facilidade, devido a melhor experiência de desenvolvimento sendo alertado de erros durante o desenvolvimento, e ajudando na escalabilidade da aplicação.
 
 
-A possibilidade de incluir microsserviços também me fez optar por essa configuração.
+A possibilidade de incluir microsserviços posteriormente também me fez optar por essa configuração.
 
